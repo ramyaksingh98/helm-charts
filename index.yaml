@@ -3,12 +3,12 @@ entries:
   attackdemo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-22T15:01:51.199047-05:00"
+    created: "2021-06-22T16:14:18.295539-05:00"
     description: A Helm chart for Kubernetes
-    digest: 8a4c42865db41b001b3e30eaa713a1b2734f4c742dedf7dd7963f9e27bf3c078
+    digest: 30ef47f2d729bad1100721bd1e0fc4bf8b45c87fb83b80455610c32f6cdcb436
     name: attackdemo
     type: application
     urls:
-    - https://github.com/ramyaksingh98/helm-charts/attackdemo-0.1.0.tgz
+    - https://ramyaksingh98.github.io/helm-charts/attackdemo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-22T15:01:51.198642-05:00"
+generated: "2021-06-22T16:14:18.294932-05:00"
