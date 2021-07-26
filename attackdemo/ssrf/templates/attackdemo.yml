@@ -27,4 +27,4 @@ spec:
     spec:
       containers:
         - name: kube-ssrf-pod
-          image: quay.io/araalinetworks/ssrf
+          image: {{ .Values.image }}
